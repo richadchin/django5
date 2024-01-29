@@ -1,0 +1,7 @@
+django_heroku
+channels_redis
+crispy_bootstrap5
+pandas==2.1.1
+
+
+this is the dex big site
